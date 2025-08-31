@@ -26,7 +26,12 @@
   },
   "pnpm": {
     "onlyBuiltDependencies": [
-      "esbuild"
+      "esbuild",
+      "sharp",
+      "workerd"
     ]
+  },
+  "dependencies": {
+    "monaco-editor": "0.52.2"
   }
 }
