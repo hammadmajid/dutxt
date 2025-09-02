@@ -7,6 +7,12 @@ settings:
 importers:
 
   .:
+    devDependencies:
+      turbo:
+        specifier: ^2.5.6
+        version: 2.5.6
+
+  apps/client:
     dependencies:
       monaco-editor:
         specifier: 0.52.2
