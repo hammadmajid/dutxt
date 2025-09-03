@@ -3,7 +3,11 @@
   <component name="NewModuleRootManager">
     <content url="file://$MODULE_DIR$">
       <excludeFolder url="file://$MODULE_DIR$/.tmp" />
-      <excludeFolder url="file://$MODULE_DIR$/.wrangler" />
+      <excludeFolder url="file://$MODULE_DIR$/.turbo" />
+      <excludeFolder url="file://$MODULE_DIR$/apps/client/.turbo" />
+      <excludeFolder url="file://$MODULE_DIR$/apps/client/.wrangler" />
+      <excludeFolder url="file://$MODULE_DIR$/apps/worker/.turbo" />
+      <excludeFolder url="file://$MODULE_DIR$/apps/worker/.wrangler" />
       <excludeFolder url="file://$MODULE_DIR$/temp" />
       <excludeFolder url="file://$MODULE_DIR$/tmp" />
     </content>
